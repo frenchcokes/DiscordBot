@@ -1,2 +1,18 @@
 # Discord Bot
-A little bot I made for a friend group discord server. There are lots of inside jokes that won't be fully understood but the code is good.
+
+## Intro
+A small Discord bot.
+
+## Key Features 
+- Checks and answers various commands sent by users
+- Keeps track of how many times each user has reacted with a specific emote
+- Can outpout a server scoreboard of who has the highest score
+
+## Used Things
+- Python
+- Python and MySQL connector
+- MySQL
+
+## Improvements
+- Improve functionality
+- Deploy bot to run on a cloud platform
